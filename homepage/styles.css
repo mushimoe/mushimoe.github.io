@@ -1,0 +1,162 @@
+h1 {
+    text-align: center;
+    font-family:'Playfair Display', serif;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-family:'Playfair Display', serif;
+    font-style:italic;
+    font-size: 30px;
+   
+}
+
+p{
+    font-family:'Libre Baskerville', serif;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#one{
+   margin-top: 30px;
+   font-weight: normal;
+   font-size: 17px;
+   text-indent: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   width: 45em;
+  
+}
+
+#two{
+   font-weight: normal;
+   font-size: 17px;
+   text-indent: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   width: 45em;
+}
+
+#three{
+   font-weight: normal;
+   font-size: 17px;
+   text-indent: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   width: 45em;
+   
+}
+
+#four{
+   font-weight: normal;
+   font-size: 17px;
+   text-indent: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   width: 45em;
+}
+
+#five{
+   font-weight: normal;
+   font-size: 17px;
+   text-indent: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   width: 45em;
+}
+
+#six{
+   margin-top: 30px;
+   font-weight: normal;
+   font-size: 17px;
+   text-indent: 5%;
+   margin-left:50px;
+}
+
+#seven{
+   font-weight: normal;
+   font-size: 17px;
+   text-indent: 5%;
+   width: 45em;
+   margin-left:50px;
+   margin-top: 30px;
+}
+
+body{
+   background-color: AntiqueWhite;
+}
+
+p{
+    text-align: justify;
+}
+
+h3{
+   margin-left:40px;
+   font-family:'Libre Baskerville', serif;
+   font-weight: bold;
+   font-style:italic;
+   margin-top:20px;
+}
+
+#garden{
+ display:block;
+   margin-top:50px;
+   margin-left:auto;
+   margin-right:auto;
+   height:600px;
+}
+
+#drinks{
+   display:block;
+   margin-top:50px;
+   margin-left:auto;
+   margin-right:auto;
+   height:600px;
+}
+
+#party{
+  display:block;
+   margin-top:50px;
+   margin-left:auto;
+   margin-right:auto;
+   height:600px;
+   width:800px;
+}
+
+#flappers{
+   display:block;
+   margin-top:50px;
+   margin-left:auto;
+   margin-right:auto;
+   height:600px;
+}
+
+#house{
+   display:block;
+   margin-top:50px;
+   margin-left:auto;
+   margin-right:auto;
+   width:400px;
+   height:600px;
+}
+
+#gatsby{
+   margin-top:100px;
+}
+
+#poster{
+  margin-top:90px;
+
+}
+
+#eight{
+   font-weight: normal;
+   font-size: 17px;
+   text-indent: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   width: 45em;
+}
